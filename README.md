@@ -1,4 +1,3 @@
-![Header](./img/hussar-header-image.png)
 # Neovide to LSP
 
 > [!WARNING]
@@ -68,4 +67,6 @@ Toggle the terminal window with a shortcut whenever you are in need of a termina
 
 ## Other Resources
 
-- [Dockerplates](https://github.com/huss4r/prod-dockerplates) - Docker-compose templates for your homelab.
+- [Dockerplates](https://github.com/huss4r/dockerplates) - Docker-compose templates for your homelab.
+
+- [Automation](https://github.com/huss4r/ansiplates) - Ansible automation yaml files.
