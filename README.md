@@ -14,7 +14,7 @@ sudo pacman -S neovim neovide
 Clone repo and copy dotfiles to ~/.config/neovide
 
 ```
-git clone https://github.com/huss4r/init.lua.git
+git clone https://github.com/hussaratkuro/init.lua.git
 cd init.lua
 mkdir -p ~/.config/neovide
 cp -r * ~/.config/neovide
